@@ -11,6 +11,6 @@ These nodes are divided in various layers.</p>
 <p align="center">
   <img src="https://cs.stanford.edu/people/eroberts/courses/soco/projects/neural-networks/Architecture/images/feedforward.jpg" width="350"/>
 </p>
-<ul><li> What is this project about></li></ul>
+<ul><li> What is this project about?</li></ul>
 <p>As mentioned , neural networks are a representation of the human brain.However, the human brain is very complicated and can behave in different ways. Dyslexia is one such condition. In this proejct we will we will train one neural network to read while the second to be dyslexic. Futher, we will compare these two networks to understand how dyslexia works.</p>
 
